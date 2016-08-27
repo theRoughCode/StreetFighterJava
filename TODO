@@ -1,0 +1,24 @@
+Things to do
+
+Important:
+1) Change the frame when Dhalsim deals damage to be in sync with animation
+	- Most noticeable with HPunch
+2) Fix errors in both players jumping at once 
+	- If Player 1 jumps when Player 2 is holding down the jump button, it will negate Player 2's jump.
+3) End game when time runs out
+4) Fix block (according to distance between hitbox and atkbox)
+5) Improve HUD
+	- Add char names
+	- Make time look better
+
+
+Others:
+ - add combos
+ - add super/ultra moves (and the bar)
+ - Increase block animation time (optional, if have time)
+ - Insert all characters
+ - add powerups
+ 	- potions
+ 	- Invincibility (remove hitbox for a few seconds)
+ 	- Speed boost
+ - add highscores (read and write to file)
